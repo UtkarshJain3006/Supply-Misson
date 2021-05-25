@@ -69,7 +69,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background("yellow");
+  background("blue");
  
   packageSprite.x= packageBody.position.x 
   packageSprite.y= packageBody.position.y 
